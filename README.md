@@ -58,43 +58,63 @@ Arkeon Core includes an independent consensus verification environment (`tests/r
 
 Below are the live execution proofs, cryptographic verification checkpoints, and system architecture layers of the validation engine:
 
-![Test 153454](https://github.com/user-attachments/assets/9894a1ca-1caf-4fe5-986d-ec45dccd95eb)
+<p align="center">
+  <img src="Ekran%20görüntüsü%202026-06-17%20153454.png" alt="Test 153454" width="850"/>
+</p>
 
 ---
 
-![Test 153437](https://github.com/user-attachments/assets/414adbf1-81d4-42b4-96e6-106eb561f577)
+<p align="center">
+  <img src="Ekran%20görüntüsü%202026-06-17%20153437.png" alt="Test 153437" width="850"/>
+</p>
 
 ---
 
-![Test 153416](https://github.com/user-attachments/assets/6c972026-f32f-499d-90ce-60344f4e899a)
+<p align="center">
+  <img src="Ekran%20görüntüsü%202026-06-17%20153416.png" alt="Test 153416" width="850"/>
+</p>
 
 ---
 
-![Test 153317](https://github.com/user-attachments/assets/54b9c6f0-696b-4dbd-b951-bdcb4863057b)
+<p align="center">
+  <img src="Ekran%20görüntüsü%202026-06-17%20153317.png" alt="Test 133317" width="850"/>
+</p>
 
 ---
 
-![Test 153215](https://github.com/user-attachments/assets/cfc0ec27-a7c2-45dc-836d-118c6fff2a46)
+<p align="center">
+  <img src="Ekran%20görüntüsü%202026-06-17%20153215.png" alt="Test 153215" width="850"/>
+</p>
 
 ---
 
-![Test 153202](https://github.com/user-attachments/assets/0e0a0f09-2aad-4b20-8349-a7bcaed2f4cd)
+<p align="center">
+  <img src="Ekran%20görüntüsü%202026-06-17%20153202.png" alt="Test 153202" width="850"/>
+</p>
 
 ---
 
-![Test 153121](https://github.com/user-attachments/assets/e51ea890-e479-489f-aadb-17cf8b895e3d)
+<p align="center">
+  <img src="Ekran%20görüntüsü%202026-06-17%20153121.png" alt="Test 153121" width="850"/>
+</p>
 
 ---
 
-![Test 153038](https://github.com/user-attachments/assets/4844f14d-8618-4ce1-85d5-4d43d629f703)
+<p align="center">
+  <img src="Ekran%20görüntüsü%202026-06-17%20153038.png" alt="Test 153038" width="850"/>
+</p>
 
 ---
 
-![Test 152959](https://github.com/user-attachments/assets/08eab87c-ee6e-4bd3-afc0-28d8e7880f97)
+<p align="center">
+  <img src="Ekran%20görüntüsü%202026-06-17%20152959.png" alt="Test 152959" width="850"/>
+</p>
 
 ---
 
-![Test 153654](https://github.com/user-attachments/assets/0fff6f68-f326-48b4-acea-4fb03d7c9bfa)
+<p align="center">
+  <img src="Ekran%20görüntüsü%202026-06-17%20153654.png" alt="Test 153654" width="850"/>
+</p>
 
 ---
 
