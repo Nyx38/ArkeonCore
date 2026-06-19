@@ -25,6 +25,32 @@ Final Result:
 
 Engine Status: CONSENSUS STABLE
 
+## Notes on Expected Error Messages
+
+Some test cases intentionally trigger controlled error paths to verify that Arkeon Core rejects incomplete or invalid transaction contexts correctly.
+
+These messages do not indicate failed tests.
+
+Examples:
+
+- `CHECKSIG ERROR: Missing message hash`
+
+This appears during a controlled P2PKH script test where the script execution path reaches OP_CHECKSIG without a full message hash context. The test confirms that the engine detects the missing signing context safely.
+
+- `P2TR PREVIEW ERROR: Unexpected EOF`
+
+This appears during the Taproot preview test using intentionally incomplete preview data. The test confirms that the Taproot parser fails safely when transaction data ends unexpectedly.
+
+In both cases, the test runner marks the cases as passed because the engine handled the invalid or incomplete input safely.
+
+Final Result:
+
+26 / 26 Tests Passed
+
+Engine Status:
+
+CONSENSUS STABLE
+
 
 
 python -m tests.run_all                                                                           
