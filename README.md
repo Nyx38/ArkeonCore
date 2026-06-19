@@ -5,6 +5,29 @@
 Protocol-Level Bitcoin Transaction Validation, Execution Tracing, UTXO Intelligence and Network Analytics Platform
 
 ---
+## Test Suite
+
+Current Status
+
+26 / 26 Tests Passed
+
+Consensus Status: STABLE
+
+Coverage Includes:
+
+- P2PKH
+- P2SH
+- P2WPKH
+- P2WSH
+- P2TR
+- Schnorr Verification
+- Taproot Detection
+- BIP340 Vectors
+- Tapscript Validation
+- Routing Engine
+- Pipeline Execution
+- UTXO Resolution
+
 
 # What is Arkeon Core?
 
