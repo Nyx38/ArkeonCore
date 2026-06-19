@@ -816,7 +816,7 @@ Business Inquiries
 
 GitHub
 
-https://github.com/Nyx38/ArkeonCore
+(https://github.com/ArkeonCore/ArkeonCore)
 
 ---
 
