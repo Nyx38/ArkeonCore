@@ -15,18 +15,21 @@ Consensus Status: STABLE
 
 Coverage Includes:
 
-- P2PKH
-- P2SH
-- P2WPKH
-- P2WSH
-- P2TR
-- Schnorr Verification
-- Taproot Detection
-- BIP340 Vectors
-- Tapscript Validation
-- Routing Engine
-- Pipeline Execution
-- UTXO Resolution
+✅ P2PKH
+✅ P2WPKH
+✅ P2SH
+✅ P2TR
+✅ Taproot Detection
+✅ Schnorr Verification
+✅ BIP340 Vectors
+✅ Tapscript Engine
+✅ Router Validation
+✅ Pipeline Validation
+✅ UTXO Resolution
+
+Detailed validation logs:
+
+→ CONSENSUS_VALIDATION_REPORT.md
 
 
 # What is Arkeon Core?
